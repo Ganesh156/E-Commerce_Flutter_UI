@@ -1,4 +1,4 @@
-# demo
+# E-Commerce-Flutter-UI
 
 A new Flutter project.
 
